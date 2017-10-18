@@ -2,7 +2,7 @@
 
 > A dark theme for [TexStudio](https://www.texstudio.org/), based on [JetBrains](https://www.jetbrains.com/) dark theme.
 
-![Screenshot](http://lorempixel.com/1920/1080/)
+![Screenshot](./screenshot.png)
 
 # Install
 
