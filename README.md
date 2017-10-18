@@ -6,7 +6,7 @@
 
 # Install
 
-1. Open TeXstudio, go to __Options__ > __Save Profile...__ and save a backup of the current profile to something like `default.txsprofile` on your Desktop.
+1. Open TeXstudio, go to __Options__ > __Save Profile...__ and save a backup of the current profile to something like `default.txsprofile` on your desktop.
 2. Create a copy of the file `default.txsprofile` and rename it to `darcula.txsprofile`.
 3. Download [this dark theme](./texstudio-darcula-dark-theme.txsprofile), open it in your editor, select all and copy it.
 4. Open `darcula.txsprofile` in your text editor, scroll to the bottom.
