@@ -10,4 +10,4 @@ TODO
 
 # License
 
-[The unlicense](./LICENSE)
+[The Unlicense](./LICENSE)
